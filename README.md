@@ -56,7 +56,8 @@ release_id=-1
 release_name="1.3"
 repository_owner="codeclou"
 repository_name="doc"
-branch_to_create_tag_from="master"
+branch_to_create_tag_from="master"   # = target_commitish -> Unused if the Git tag already exists! 
+                                     #   https://developer.github.com/v3/repos/releases/#create-a-release
 
 create_github_release_and_get_release_id \
     $repository_owner \

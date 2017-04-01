@@ -6,7 +6,7 @@
 # See https://github.com/codeclou/publish-github-release-assets-helper/blob/master/LICENSE
 ####################################################################################
 
-VERSION=1.0.0
+VERSION=1.0.1
 
 set -e
 
