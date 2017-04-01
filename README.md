@@ -17,6 +17,8 @@ Create [GitHub Release Assets](https://github.com/blog/1547-release-your-softwar
  * `GITHUB_AUTH_TOKEN` environment variable must contain valid [GitHub Personal Access Token](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/)
  * Bash 3 or 4 required
  * `curl` and `jq` required
+ * Git Tags should exist before creating a release!
+ * Git Tags should be equal to Release-Name!
 
 -----
 
