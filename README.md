@@ -1,5 +1,7 @@
 # publish-github-release-assets-helper
 
+[![](https://codeclou.github.io/publish-github-release-assets-helper/img/github-product-logo-publish-github-release.png)](https://github.com/codeclou/publish-github-release-assets-helper/)
+
 Create [GitHub Release Assets](https://github.com/blog/1547-release-your-software) with ease from your existing bash build script.
 
 &nbsp;
