@@ -1,14 +1,10 @@
-# publish-github-release-assets-helper
+# Publish Github Release Assets Helper
+
+> Create [GitHub Release Assets](https://github.com/blog/1547-release-your-software) with ease from your existing bash build scripts. No need to fiddle with the API directly.
 
 [![](https://codeclou.github.io/publish-github-release-assets-helper/img/github-product-logo-publish-github-release.png)](https://github.com/codeclou/publish-github-release-assets-helper/)
 
-Create [GitHub Release Assets](https://github.com/blog/1547-release-your-software) with ease from your existing bash build script.
-
 &nbsp;
-
-<p align="center"><img src="https://cloud.githubusercontent.com/assets/12599965/24579682/38a5844e-16fa-11e7-8e58-fce0bdd4d6b8.gif" width="80%"></p>
-
-
 
 -----
 
@@ -80,6 +76,7 @@ upload_asset_to_github_release \
     "application/json"
 ```
 
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/12599965/24579682/38a5844e-16fa-11e7-8e58-fce0bdd4d6b8.gif" width="80%"></p>
 
 -----
 
